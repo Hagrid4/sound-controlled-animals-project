@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Fasthand', cursive;
+    background: white;
+    color: darkcyan;
+}
+#header_div
+{
+    background: rgb(238,76,46);
+    color: darkblue;
+}
+.header_div p
+{
+    font-family: 'Fasthand', cursive;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: white;
+}
+.main_div button
+{
+    font-family: 'Fasthand', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer
+{
+    background-color: goldenrod;
+    color: aquamarine;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px royalblue;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+#hear_img
+{
+    height: 200px;
+    width: 200px;
+}
